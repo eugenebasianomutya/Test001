@@ -1,0 +1,406 @@
+[
+    [
+        "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544611625182,
+            "changeTime": 1544611625182,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544611625182,
+            "changeTime": 1544611625182,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544613643965,
+            "changeTime": 1544613643965,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544611928111,
+            "changeTime": 1544611928111,
+            "contentHash": "e52c854d5631eec7468ba4727b4c77eb745f2965",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\aura\\Demo",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\aura\\Demo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544611928119,
+            "changeTime": 1544611928119,
+            "contentHash": "43ddf5730caa5f429a02f9794295fa86dc177f7a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1544611928118,
+            "changeTime": 1544611928118,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+            "isDirectory": false,
+            "size": 185,
+            "modifiedTime": 1544612253653,
+            "changeTime": 1544612253653,
+            "contentHash": "df1117bfc07be6dc45593ca36887b5d72973a6ea",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 236,
+            "modifiedTime": 1544611928113,
+            "changeTime": 1544611928113,
+            "contentHash": "908257bc05e5ea58368667d2c873c9114321f516",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1544611928116,
+            "changeTime": 1544611928116,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1544611928119,
+            "changeTime": 1544611928119,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1544611928118,
+            "changeTime": 1544611928118,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1544611928113,
+            "changeTime": 1544611928113,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1544611928115,
+            "changeTime": 1544611928115,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1544611928117,
+            "changeTime": 1544611928117,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\sfdxtest\\sfdx",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\sfdxtest\\sfdx",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544611648265,
+            "changeTime": 1544611648265,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\objects\\Account\\fields\\Active__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\objects\\Account\\fields\\Active__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 324,
+            "modifiedTime": 1544613643908,
+            "changeTime": 1544613643908,
+            "contentHash": "f180a7b4fa206d7a0ce67c140182d9a8265a8034"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9580,
+            "modifiedTime": 1544613643920,
+            "changeTime": 1544613643920,
+            "contentHash": "c7d04adc6a4edea09dce3f86cf9672be2e4b1501"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9628,
+            "modifiedTime": 1544613643947,
+            "changeTime": 1544613643947,
+            "contentHash": "013e026556e94032d5c5bf03bdbfe6eae4947949"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9628,
+            "modifiedTime": 1544613643954,
+            "changeTime": 1544613643954,
+            "contentHash": "a2c8c8e4d5d39445e991f09c22c641351b071b01"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9580,
+            "modifiedTime": 1544613643961,
+            "changeTime": 1544613643961,
+            "contentHash": "0e6e44be3cb5747de4bcadc0691027c7b9477cf7"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4926,
+            "modifiedTime": 1544613643966,
+            "changeTime": 1544613643966,
+            "contentHash": "523c9fda4122aac3b816554a5968a2a8308ffc23"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4586,
+            "modifiedTime": 1544613643971,
+            "changeTime": 1544613643971,
+            "contentHash": "d75c8094af2dbd98cf2acdba06b34899efdae645"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4590,
+            "modifiedTime": 1544613643981,
+            "changeTime": 1544613643981,
+            "contentHash": "45612bd5c5b6184e180edd47baf58ebb3ffc08e1"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18110,
+            "modifiedTime": 1544613644016,
+            "changeTime": 1544613644016,
+            "contentHash": "3d7d8ba028982de7f5faf46d3efec1d99d9f14e7"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544613643908,
+            "changeTime": 1544613643908,
+            "contentHash": "167b00b6699683e85784c6885d0543f790a2eaa8"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544613643906,
+            "changeTime": 1544613643906,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544613643906,
+            "changeTime": 1544613643906,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544613643961,
+            "changeTime": 1544613643961,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\sfdxtest\\sfdx\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544613644016,
+            "changeTime": 1544613644016,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
